@@ -280,6 +280,14 @@
 		89E03ED61831555F00861C06 /* libwebsockets.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 89E03ED51831555F00861C06 /* libwebsockets.a */; };
 		89E03EDC1831556000861C06 /* AppDelegate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 89E03EDB1831556000861C06 /* AppDelegate.cpp */; };
 		89E03EDF1831556000861C06 /* HelloWorldScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 89E03EDE1831556000861C06 /* HelloWorldScene.cpp */; };
+		89E03F0C1833DC3600861C06 /* sample1.png in Resources */ = {isa = PBXBuildFile; fileRef = 89E03F041833DC3600861C06 /* sample1.png */; };
+		89E03F0D1833DC3600861C06 /* sample2.png in Resources */ = {isa = PBXBuildFile; fileRef = 89E03F051833DC3600861C06 /* sample2.png */; };
+		89E03F0E1833DC3600861C06 /* sample3.png in Resources */ = {isa = PBXBuildFile; fileRef = 89E03F061833DC3600861C06 /* sample3.png */; };
+		89E03F0F1833DC3600861C06 /* sample4.png in Resources */ = {isa = PBXBuildFile; fileRef = 89E03F071833DC3600861C06 /* sample4.png */; };
+		89E03F101833DC3600861C06 /* sample5.png in Resources */ = {isa = PBXBuildFile; fileRef = 89E03F081833DC3600861C06 /* sample5.png */; };
+		89E03F111833DC3600861C06 /* sampleL2.png in Resources */ = {isa = PBXBuildFile; fileRef = 89E03F091833DC3600861C06 /* sampleL2.png */; };
+		89E03F121833DC3600861C06 /* sampleL3.png in Resources */ = {isa = PBXBuildFile; fileRef = 89E03F0A1833DC3600861C06 /* sampleL3.png */; };
+		89E03F131833DC3600861C06 /* sampleL5.png in Resources */ = {isa = PBXBuildFile; fileRef = 89E03F0B1833DC3600861C06 /* sampleL5.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -873,6 +881,14 @@
 		89E03EDB1831556000861C06 /* AppDelegate.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = AppDelegate.cpp; path = Classes/AppDelegate.cpp; sourceTree = "<group>"; };
 		89E03EDD1831556000861C06 /* HelloWorldScene.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = HelloWorldScene.h; path = Classes/HelloWorldScene.h; sourceTree = "<group>"; };
 		89E03EDE1831556000861C06 /* HelloWorldScene.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = HelloWorldScene.cpp; path = Classes/HelloWorldScene.cpp; sourceTree = "<group>"; };
+		89E03F041833DC3600861C06 /* sample1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sample1.png; sourceTree = "<group>"; };
+		89E03F051833DC3600861C06 /* sample2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sample2.png; sourceTree = "<group>"; };
+		89E03F061833DC3600861C06 /* sample3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sample3.png; sourceTree = "<group>"; };
+		89E03F071833DC3600861C06 /* sample4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sample4.png; sourceTree = "<group>"; };
+		89E03F081833DC3600861C06 /* sample5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sample5.png; sourceTree = "<group>"; };
+		89E03F091833DC3600861C06 /* sampleL2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sampleL2.png; sourceTree = "<group>"; };
+		89E03F0A1833DC3600861C06 /* sampleL3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sampleL3.png; sourceTree = "<group>"; };
+		89E03F0B1833DC3600861C06 /* sampleL5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sampleL5.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -944,6 +960,14 @@
 		89E03B491831555900861C06 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				89E03F041833DC3600861C06 /* sample1.png */,
+				89E03F051833DC3600861C06 /* sample2.png */,
+				89E03F061833DC3600861C06 /* sample3.png */,
+				89E03F071833DC3600861C06 /* sample4.png */,
+				89E03F081833DC3600861C06 /* sample5.png */,
+				89E03F091833DC3600861C06 /* sampleL2.png */,
+				89E03F0A1833DC3600861C06 /* sampleL3.png */,
+				89E03F0B1833DC3600861C06 /* sampleL5.png */,
 				89E03B4A1831555900861C06 /* CloseNormal.png */,
 				89E03B4C1831555900861C06 /* CloseSelected.png */,
 				89E03B4E1831555900861C06 /* Default.png */,
@@ -2164,6 +2188,14 @@
 				89E03B5F1831555900861C06 /* iTunesArtwork in Resources */,
 				89E03BFE1831555A00861C06 /* ChangeLog in Resources */,
 				89E03D721831555D00861C06 /* project.pbxproj in Resources */,
+				89E03F0C1833DC3600861C06 /* sample1.png in Resources */,
+				89E03F0D1833DC3600861C06 /* sample2.png in Resources */,
+				89E03F0E1833DC3600861C06 /* sample3.png in Resources */,
+				89E03F0F1833DC3600861C06 /* sample4.png in Resources */,
+				89E03F101833DC3600861C06 /* sample5.png in Resources */,
+				89E03F111833DC3600861C06 /* sampleL2.png in Resources */,
+				89E03F121833DC3600861C06 /* sampleL3.png in Resources */,
+				89E03F131833DC3600861C06 /* sampleL5.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2564,6 +2596,7 @@
 				89E03EE41831556000861C06 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
